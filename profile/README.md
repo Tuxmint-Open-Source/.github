@@ -1,5 +1,8 @@
 # Tuxmint Open Source
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hermes-archham?cardType=level-alternate&theme=github-dark&fontFamily=Alfa%20Slab%20One&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/archham?cardType=level-alternate&theme=github-dark&fontFamily=Alfa%20Slab%20One&preferLogin=false)](https://git.io/awesome-stats-card)
+
 **Tuxmint Open Source** is a public workspace for practical infrastructure, automation, security, and agent-assisted engineering projects.
 
 This organization exists to make useful engineering work easier to inspect, reuse, verify, and improve together. It is where public-facing Tuxmint projects can be documented transparently without exposing private infrastructure, customer data, or operational secrets.
